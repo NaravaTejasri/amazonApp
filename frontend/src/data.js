@@ -7,6 +7,7 @@ const data = {
             image: '/images/girl.jpeg',
             price: 120,
             rating: 4.5,
+            numReviews: 20,
             description: 'High quality product'
 
         },
@@ -16,7 +17,8 @@ const data = {
             category: 'shirt',
             image: '/images/shirt1.jpg',
             price: 150,
-            rating: 4.5,
+            rating: 3.5,
+            numReviews: 10,
             description: 'High quality product'
 
         },
@@ -26,7 +28,8 @@ const data = {
             category: 'shirt',
             image: '/images/shirt2.jpg',
             price: 110,
-            rating: 4.5,
+            rating: 4.8,
+            numReviews: 15,
             description: 'High quality product'
 
         },
@@ -37,6 +40,7 @@ const data = {
             image: '/images/shirt3.jpg',
             price: 100,
             rating: 4.5,
+            numReviews: 30,
             description: 'High quality product'
 
         },
@@ -46,7 +50,8 @@ const data = {
             category: 'shirt',
             image: '/images/shirt4.jpg',
             price: 150,
-            rating: 4.5,
+            rating: 2.5,
+            numReviews: 5,
             description: 'High quality product'
 
         },
@@ -56,7 +61,8 @@ const data = {
             category: 'shirt',
             image: '/images/shirt5.jpg',
             price: 160,
-            rating: 4.5,
+            rating: 1.5,
+            numReviews: 3,
             description: 'High quality product'
 
         },

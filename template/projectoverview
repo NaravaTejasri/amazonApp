@@ -1,0 +1,28 @@
+ 1. create html and style.css
+ 2. add product attributes
+ 3. add link, image, name and price
+
+Create react app
+ 1.npx create-react-app frontend
+ 2.npm start - to start te server
+ 3.remove unused files
+ 4.copy html file and css file 
+
+
+Create Rating and Product Component
+  1.create components/Rating.js
+  2.create div.rating
+  3.style div.rating, span and last span
+  4.create Product components
+  5.using Rating component
+
+
+Create Product screen
+  1.install react-router-dom
+  2.Use BrowserRouter and Route for Home screen
+  3.Create HomeScreen.js
+  4.Add product list code there
+  5.create ProductScreen.js
+  6.Add new Route from product details to App.js
+  7.Create 3 columns for product image, info and action
+   
