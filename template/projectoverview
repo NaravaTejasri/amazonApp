@@ -18,7 +18,7 @@ Create Rating and Product Component
 
 
 Create Product screen
-  1.install react-router-dom
+  1.install react-router-dom - we can define multiple routes for our application
   2.Use BrowserRouter and Route for Home screen
   3.Create HomeScreen.js
   4.Add product list code there
