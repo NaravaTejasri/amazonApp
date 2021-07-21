@@ -71,6 +71,13 @@ Load products from backend
   9.useEffect(() => dispatch({type: LOAD_PRODUCTS, payload: data})
   10.add store to index.js
 
+13.Add Redux to ProductScreen
+   1.create product details constants, actions, reducers
+   2.add reducer to store
+   3.use action in ProductScreen.js
+   4.add /api/product/:id to backend api
+   
+
 
 
 
