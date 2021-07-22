@@ -77,7 +77,10 @@ Load products from backend
    3.use action in ProductScreen.js
    4.add /api/product/:id to backend api
    
-
+14.Handle Add to cart button
+   1.Handle add to cart in ProductScreen.js
+   2.create cartScreen.js
+   
 
 
 
