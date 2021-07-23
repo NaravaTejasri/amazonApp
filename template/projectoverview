@@ -81,7 +81,17 @@ Load products from backend
    1.Handle add to cart in ProductScreen.js
    2.create cartScreen.js
    
-
-
-
+15.Implement Add to Cart Action
+   1.create addToCart constants, actions and reducers
+   2.add reducer to store.js
+   3.use action in cartScreen.js
+   4.render cartItem.js
+   
+16.Build Cart screen
+   1.create 2 columns for cart items and cart actions
+   2.cartItems.length === 0 ? cart is empty
+   3.show item image, name, qty and price
+   4.Proceed to checkout button
+   5.implement remove from cart actions
+   
    

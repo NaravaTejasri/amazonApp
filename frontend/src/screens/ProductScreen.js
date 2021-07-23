@@ -12,7 +12,6 @@ export default function ProductScreen(props) {
   const productId = props.match.params.id;
   const [ qty, setQty] = useState(1);
   const productDetails = useSelector( state => state.productDetails); //getting details from redux store
-  console.log(productDetails);
   const { loading, error, product} = productDetails;
 
    useEffect(() => {
