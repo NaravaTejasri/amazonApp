@@ -93,5 +93,34 @@ Load products from backend
    3.show item image, name, qty and price
    4.Proceed to checkout button
    5.implement remove from cart actions
+
+17.Implement Remove cart from Action
+   1.create RemoveFromCart constants, actions and reducers
+   2.add reducer to store.js
+   3.use action in cartScreen.js
+
+18.Connect to Mongo db
+   1.npm install mongoose
+   2.connect to mongo db
+   3.create config.js
+   4.npm install dotenv
+   5.export MONGODB_URL
+   6.create models/UserModel.js
+   7.create userSchema and UserModel
+   8.create models/productModel.js
+   9.create productSchema and productModel
+   10.create userRoute
+   11.Seed sample data
+
+
+
+
+
+
+
+
+
+
+
    
    
