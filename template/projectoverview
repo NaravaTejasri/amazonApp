@@ -103,7 +103,7 @@ Load products from backend
    1.npm install mongoose
    2.connect to mongo db
    3.create config.js
-   4.npm install dotenv
+   4.npm install bcrypt
    5.export MONGODB_URL
    6.create models/UserModel.js
    7.create userSchema and UserModel
@@ -111,6 +111,20 @@ Load products from backend
    9.create productSchema and productModel
    10.create userRoute
    11.Seed sample data
+
+19.Create sample products in mongodb
+   1.create models/productModel.js
+   2.create productSchema and productModel
+   3.create productRoute
+   4.Seed sample data
+   
+
+
+
+
+
+
+
 
 
 
