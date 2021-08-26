@@ -193,6 +193,10 @@ img.large {
 }
 
 /* Alert - product/1*/
+.loading {
+  display: block !important;
+}
+
 .success {
   color: #20a020;
 }
