@@ -146,6 +146,12 @@ Load products from backend
    5.Add fields
    6.Style fields
    7.Add screen to app.js
+
+24.Create shipping screen
+   1.create CheckoutSteps.js component
+   2.create shipping fields
+   3.implement shipping constant, actions and reducers
+   
    
 
 
