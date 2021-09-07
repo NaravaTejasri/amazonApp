@@ -178,6 +178,19 @@ Load products from backend
    5.show data like placeorder screen
    6.create order details constants, actions and reducers
 
+30.Add Paypal button
+   1.get client id from Paypal
+   2.set it in .env file
+   3.create route from /api/paypal/clientId
+   4.create getPaypalClientId in api.js
+   5.add paypal checkout script in orderscreen.js
+   6.show paypal button
+
+31.implement Order payment
+   1.update order after payment
+   2.create payOrder in api.js
+   3.create route for /:id/pay in orderRoute.js
+   4.rerender after pay order
    
 
 
