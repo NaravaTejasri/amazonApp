@@ -202,7 +202,31 @@ Load products from backend
    1.create user details api
    2.show user information
 
+34.Update the userProfile
+   1.create user update api
+   2.update te user info
+
+
+35.Create Admin View
+   1.Create Admin menu
+   2.create Admin Middleware in backend
+   3.create admin route in frontend
+
+36.List products
+   1.Create product list screen
+   2.Add reducer to store
+   3.show products on the screen
+
+
+37.Create product
+   1.build create product api
+   2.build Create Product button
+   3.define product create constant, action and reducer
+   4.use action in Product list screen
    
+
+
+
 
 
 
