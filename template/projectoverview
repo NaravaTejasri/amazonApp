@@ -236,6 +236,12 @@ Load products from backend
    2.define product update constant, action and reducers
    3.use action in Product edit screen
 
+40.upload product image
+   1.npm install multer
+   2.define upload router
+   3.create upload folders
+   4.Handle frontend
+
 
 
 
