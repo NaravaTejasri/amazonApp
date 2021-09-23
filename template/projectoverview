@@ -242,7 +242,12 @@ Load products from backend
    3.create upload folders
    4.Handle frontend
 
+41.Delete product
+   1.create delete api in backend
+   2.create delete constants, action and reducer
+   3.use it in product list screen
 
+   
 
 
 
