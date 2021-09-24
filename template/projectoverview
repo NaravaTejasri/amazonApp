@@ -247,7 +247,23 @@ Load products from backend
    2.create delete constants, action and reducer
    3.use it in product list screen
 
-   
+42.List orders
+   1.create order list api
+   2.create order list screen
+   3.Add reducer to store
+   4.show products on the screen
+
+43.Delete Order
+   1.create delete order action and reducer
+   2.add order delete action to order list
+
+44.Deliver order
+   1.create constant, action and reducers for deliver order
+   2.add order deliver action to order details screen
+
+
+
+
 
 
 
