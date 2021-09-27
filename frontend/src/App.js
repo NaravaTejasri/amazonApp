@@ -18,6 +18,7 @@ import SigninScreen from "./screens/SigninScreen";
 import ProductListScreen from "./screens/ProductListScreen";
 import ProductEditScreen from "./screens/ProductEditScreen";
 import OrderListScreen from "./screens/OrderListScreen";
+import UserListScreen from "./screens/UserListScreen";
 
 function App() {
   //getting data from redux store
@@ -105,6 +106,7 @@ function App() {
           <PrivateRoute path="/profile" component={ProfileScreen} />
           <AdminRoute path="/productlist" component={ProductListScreen} />
           <AdminRoute path="/orderlist" component={OrderListScreen} />
+          <AdminRoute path="/userlist" component={UserListScreen} />
           <Route path="/" component={HomeScreen} exact />
         </main>
         <footer className="row center">All right reserved</footer>

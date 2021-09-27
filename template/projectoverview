@@ -261,6 +261,41 @@ Load products from backend
    1.create constant, action and reducers for deliver order
    2.add order deliver action to order details screen
 
+45.Publish To Heroku
+   1.Create git repository
+   2.create heroku account
+   3.install heroku CLI
+   4.heroku login
+   5.heroku app: create <yourname> amazona
+   6.edit package.json for build script
+   7.create profile
+   8.create mongodb atlas database
+   9.set database connection in heroku env variables
+   10.Commit and push
+
+46.List users
+   1.build api for list users
+   2.Create Userlist screen
+   3.create order details constant, action and reducer
+
+47.Delete users
+   1.build api for delete users
+   2.create order details constant, action and reducer
+   3.use action in UsersListScreen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
