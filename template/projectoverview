@@ -283,6 +283,27 @@ Load products from backend
    2.create order details constant, action and reducer
    3.use action in UsersListScreen
 
+48.Edit User
+   1.build api for update users
+   2.create edit screen UI
+
+49.Implement seller view 
+   1.add seller menu
+   2.create seller route
+   3.list products for seller
+   4.list orders for seller 
+   5.add seller to product list and details screen
+
+   
+
+
+   
+
+
+
+
+
+
 
 
 
