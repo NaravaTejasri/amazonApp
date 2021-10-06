@@ -5,18 +5,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "cd frontend && npm install && npm run build",
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaravaTejasri/amazonApp.git"
+    "url": "git+https://github.com/NaravaTejasri/shoppingcart.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NaravaTejasri/amazonApp/issues"
+    "url": "https://github.com/NaravaTejasri/shoppingcart/issues"
   },
-  "homepage": "https://github.com/NaravaTejasri/amazonApp#readme",
+  "homepage": "https://github.com/NaravaTejasri/shoppingcart#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
@@ -28,5 +29,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "engines": {"node":"12.4.0", "npm": "6.9.0"}
 }
