@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaravaTejasri/onlineshoppingcart.git"
+    "url": "git+https://github.com/NaravaTejasri/shoppingcart.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NaravaTejasri/onlineshoppingcart/issues"
+    "url": "https://github.com/NaravaTejasri/shoppingcart/issues"
   },
-  "homepage": "https://github.com/NaravaTejasri/onlineshoppingcart#readme",
+  "homepage": "https://github.com/NaravaTejasri/shoppingcart#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
