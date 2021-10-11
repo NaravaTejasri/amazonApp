@@ -33,7 +33,7 @@ const __dirname = path.resolve();
 app.use("/uploads", express.static(path.join(__dirname, "/uploads")));
 
 app.get("/", (req, res) => {
-  res.send("Server connected to github and heroku");
+  res.send("Server connected to github");
 });
 
 app.use((err, req, res, next) => {
