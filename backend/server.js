@@ -38,7 +38,7 @@ app.get("*", (req, res) =>
 ); */
 
 app.get("/", (req, res) => {
-  res.send("Server connected to github");
+  res.send("Server connected to github and heroku");
 });
 
 app.use((err, req, res, next) => {
